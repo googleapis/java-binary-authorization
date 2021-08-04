@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://www.github.com/googleapis/java-binary-authorization/compare/v0.1.1...v0.2.0) (2021-08-04)
+
+
+### Features
+
+* configure initial sp version ([#42](https://www.github.com/googleapis/java-binary-authorization/issues/42)) ([afa4114](https://www.github.com/googleapis/java-binary-authorization/commit/afa4114e9771cc2e93690e40d7f7b0f49c4c293d))
+
 ### [0.1.1](https://www.github.com/googleapis/java-binary-authorization/compare/v0.1.0...v0.1.1) (2021-06-09)
 
 
