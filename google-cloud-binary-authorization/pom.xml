@@ -67,6 +67,11 @@
       <artifactId>threetenbp</artifactId>
     </dependency>
 
+    <dependency>
+      <groupId>io.grafeas</groupId>
+      <artifactId>grafeas</artifactId>
+    </dependency>
+
     <!-- Test dependencies -->
     <dependency>
       <groupId>junit</groupId>

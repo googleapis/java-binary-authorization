@@ -84,6 +84,12 @@
       </dependency>
 
       <dependency>
+        <groupId>io.grafeas</groupId>
+        <artifactId>grafeas</artifactId>
+        <version>2.0.6</version>
+      </dependency>
+
+      <dependency>
         <groupId>com.google.cloud</groupId>
         <artifactId>google-cloud-shared-dependencies</artifactId>
         <version>2.4.0</version>
