@@ -64,6 +64,16 @@
       </dependency>
       <dependency>
         <groupId>com.google.api.grpc</groupId>
+        <artifactId>proto-google-cloud-binary-authorization-v1</artifactId>
+        <version>0.3.4-SNAPSHOT</version><!-- {x-version-update:proto-google-cloud-binary-authorization-v1:current} -->
+      </dependency>
+      <dependency>
+        <groupId>com.google.api.grpc</groupId>
+        <artifactId>grpc-google-cloud-binary-authorization-v1</artifactId>
+        <version>0.3.4-SNAPSHOT</version><!-- {x-version-update:grpc-google-cloud-binary-authorization-v1:current} -->
+      </dependency>
+      <dependency>
+        <groupId>com.google.api.grpc</groupId>
         <artifactId>grpc-google-cloud-binary-authorization-v1beta1</artifactId>
         <version>0.3.4-SNAPSHOT</version><!-- {x-version-update:grpc-google-cloud-binary-authorization-v1beta1:current} -->
       </dependency>
@@ -103,7 +113,9 @@
   <modules>
     <module>google-cloud-binary-authorization</module>
     <module>grpc-google-cloud-binary-authorization-v1beta1</module>
+    <module>grpc-google-cloud-binary-authorization-v1</module>
     <module>proto-google-cloud-binary-authorization-v1beta1</module>
+    <module>proto-google-cloud-binary-authorization-v1</module>
     <module>google-cloud-binary-authorization-bom</module>
   </modules>
 
