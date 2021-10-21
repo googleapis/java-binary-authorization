@@ -29,6 +29,10 @@
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
     </dependency>
+    <dependency>
+      <groupId>io.grafeas</groupId>
+      <artifactId>grafeas</artifactId>
+    </dependency>
   </dependencies>
 
   <build>
