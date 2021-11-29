@@ -81,8 +81,7 @@ public final class BinaryAuthorizationResourcesProto {
   static {
     java.lang.String[] descriptorData = {
       "\n"
-          + "8google/cloud/binaryauthorization/v1beta1/resources.proto\022(google.cloud.binarya"
-          + "uthorization.v1beta1\032\037google/api/field_behavior.proto\032\031google/api/resource.proto\032\037google/protobuf/timestamp.proto\032\034google/api/annotations.proto\"\261\r\n"
+          + "8google/cloud/binaryauthorization/v1beta1/resources.proto\022(google.cloud.binaryauthorization.v1beta1\032\037google/api/field_behavior.proto\032\031google/api/resource.proto\032\037google/protobuf/timestamp.proto\032\034google/api/annotations.proto\"\261\r\n"
           + "\006Policy\022\021\n"
           + "\004name\030\001 \001(\tB\003\340A\003\022\030\n"
           + "\013description\030\006 \001(\tB\003\340A\001\022w\n"

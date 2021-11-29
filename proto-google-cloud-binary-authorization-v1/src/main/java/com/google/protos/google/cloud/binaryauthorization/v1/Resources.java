@@ -14319,8 +14319,7 @@ public final class Resources {
   static {
     java.lang.String[] descriptorData = {
       "\n"
-          + "3google/cloud/binaryauthorization/v1/resources.proto\022#google.cloud.binaryauthor"
-          + "ization.v1\032\037google/api/field_behavior.proto\032\031google/api/resource.proto\032\037google/protobuf/timestamp.proto\032\034google/api/annotations.proto\"\370\014\n"
+          + "3google/cloud/binaryauthorization/v1/resources.proto\022#google.cloud.binaryauthorization.v1\032\037google/api/field_behavior.proto\032\031google/api/resource.proto\032\037google/protobuf/timestamp.proto\032\034google/api/annotations.proto\"\370\014\n"
           + "\006Policy\022\021\n"
           + "\004name\030\001 \001(\tB\003\340A\003\022\030\n"
           + "\013description\030\006 \001(\tB\003\340A\001\022r\n"
