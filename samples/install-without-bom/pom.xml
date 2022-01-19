@@ -29,7 +29,7 @@
     <dependency>
       <groupId>com.google.cloud</groupId>
       <artifactId>google-cloud-binary-authorization</artifactId>
-      <version>0.4.0</version>
+      <version>0.4.1</version>
     </dependency>
     <!-- [END binary-authorization_install_without_bom] -->
 
@@ -53,7 +53,7 @@
       <plugin>
         <groupId>org.codehaus.mojo</groupId>
         <artifactId>build-helper-maven-plugin</artifactId>
-        <version>3.2.0</version>
+        <version>3.3.0</version>
         <executions>
           <execution>
             <id>add-snippets-source</id>
