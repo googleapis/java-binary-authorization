@@ -71,6 +71,11 @@
       <groupId>io.grafeas</groupId>
       <artifactId>grafeas</artifactId>
     </dependency>
+    <dependency>
+      <groupId>io.perfmark</groupId>
+      <artifactId>perfmark-api</artifactId>
+      <version>0.25.0</version>
+    </dependency>
 
     <!-- Test dependencies -->
     <dependency>
